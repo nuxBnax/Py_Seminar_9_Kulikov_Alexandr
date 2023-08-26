@@ -15,12 +15,12 @@
 # 4. Использование функций. Ваша программа
 #   не должна быть линейной
 
-from mod_functions_join import *
+from mod_all_functions import *
 from mod_logic import *
 from mod_menu import *
 
-def prime():
+def main():
     menu()
     logic(input_cmd())
 
-prime()
+main()

@@ -1,4 +1,4 @@
-from mod_functions_join import *
+from mod_all_functions import *
 
 def logic(text):
     if text == 'lst':
